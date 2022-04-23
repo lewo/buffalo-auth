@@ -4,8 +4,8 @@ import (
 	"context"
 
 	"github.com/lewo/buffalo-auth/genny/auth"
-	"github.com/lewo/genny/v2"
-	"github.com/lewo/genny/v2/gogen"
+	"github.com/gobuffalo/genny/v2"
+	"github.com/gobuffalo/genny/v2/gogen"
 	"github.com/pkg/errors"
 	"github.com/spf13/cobra"
 )
