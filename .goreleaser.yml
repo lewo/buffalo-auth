@@ -39,7 +39,7 @@ brews:
   -
     name: 'buffalo-auth'
     github:
-      owner: 'gobuffalo'
+      owner: 'lewo'
       name: 'homebrew-tap'
     install: |
       bin.install "buffalo-auth"
